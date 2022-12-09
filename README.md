@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Praveen Jaiprakash</h1>
 <h3 align="center">Animations and VFX artist, Game developer</h3>
-<img align="right" alt="Coding" width="400" src="https://gfycat.com/parallelassuredindiancow-illkeepyouwarm-spaceheater-wintervibes">
 
 - 🔭 I’m currently working on [Sci-Fi Environment animations](https://drive.google.com/file/d/1eh0rMAh7ol232DWADGG0TB2ygdZTQO8Y/view?usp=sharing)
 
